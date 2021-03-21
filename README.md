@@ -1,2 +1,2 @@
-# sunbinmun.github.io
-Sun Bin MUN's Website
+# Sun Bin MUN
+Hello, and welcome!
